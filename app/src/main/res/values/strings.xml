@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Check Credit Score</string>
+    <string name="credit_score">Your score\n%1$d\nOut of %2$d</string>
+    <string name="wrong_error_message">Something wrong....</string>
+    <string name="try_again">Please try again.</string>
+    <string name="btn_try">Try</string>
+</resources>
